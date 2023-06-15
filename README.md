@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Tristan, an aspiring developer with a passion 
 ### 🔭 Current Projects
 
 - Building a web application using Node.js, coupled with EJS and Express.js.
-- Crafting my personal portfolio website using HTML, CSS, and Node.js.
+- Crafting my personal portfolio website using HTML, CSS, and JavaScript.
 - Enhancing my problem-solving skills through coding challenges and algorithmic problems.
 
 ### 🌱 Skills
