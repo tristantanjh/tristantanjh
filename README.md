@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Tristan, an aspiring developer with a passion 
 ### 🌱 Skills
 
 - **Languages:** Java, JavaScript, HTML, CSS, R
-- **Frontend Development:** React, HTML5, CSS3, Bootstrap
+- **Frontend Development:** React, EJS, Bootstrap
 - **Backend Development:** Node.js, Express.js
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
