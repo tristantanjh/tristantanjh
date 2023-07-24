@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm Tristan, an aspiring developer with a passion 
 
 ### 📫 Contact Me
 
-- LinkedIn: [Tristan Tan](https://www.linkedin.com/in/tristantjh/)
 - Email: tristantanjh@gmail.com
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me. I'm always looking for opportunities to learn and grow as a developer.
