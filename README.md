@@ -19,8 +19,7 @@
 
 - Building a web application using Node.js, coupled with EJS and Express.js. [Check out the prototype here!](https://github.com/tristantanjh/ParticleHoppers)
 - Learning about mobile development through a complete Flutter and Dart course.
-- Crafting my personal portfolio website using HTML, CSS, and JavaScript.
-- Enhancing my problem-solving skills through coding challenges and algorithmic problems.
+- Crafting my personal portfolio website using Three.js and blender.
 
 <!-- Skills -->
 ### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/ad835ee8-bd0f-46d8-8d03-b4d84a1bef05" height=30> Skills
