@@ -18,7 +18,6 @@
 ### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/fe6a9329-7cba-477a-889c-fe754469ed21" height=25> Current Projects
 
 - Building a web application using Node.js, coupled with EJS and Express.js. [Check out the prototype here!](https://github.com/tristantanjh/ParticleHoppers)
-- Learning about mobile development through a complete Flutter and Dart course.
 - Crafting my personal portfolio website using Three.js and blender.
 
 <!-- Skills -->
