@@ -63,7 +63,7 @@
 ### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/d5e7f1ad-b40e-48e8-ae38-2bc15defc413" height=30> &nbsp; Education
 
 - National University of Singapore (NUS): Bachelor of Computing in Information Systems - In Progress
-- Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming
+- Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming, Enterprise Systems Architecture & Design, Enterprise Systems Server-side Design & Development
 
 <!-- Contact -->
 ### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/66f12e1b-1488-4747-92cf-e4842109cc56" height=30> Contact Me
